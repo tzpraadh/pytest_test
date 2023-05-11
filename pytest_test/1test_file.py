@@ -38,5 +38,9 @@ class TestClass:
         print("Executing test2!")
         assert True
 
+    def test3(self):
+        print("Executing Test3!")
+        assert True
+
 
 
