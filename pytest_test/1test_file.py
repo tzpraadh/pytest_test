@@ -41,6 +41,10 @@ class TestClass:
     def test3(self):
         print("Executing Test3!")
         assert True
+        
+    def test4(self):
+        print("Test")
+        assert True
 
 
 
